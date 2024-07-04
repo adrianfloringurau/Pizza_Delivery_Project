@@ -6,4 +6,5 @@ As you can figure out, the clients should be able to place some pizza orders and
 The complicated thing of this project was setting up a stable many-to-many relationship between Pizza and Ingredient tables/classes.
 
 Default username: root
+
 Default password: TOOR
